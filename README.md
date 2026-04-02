@@ -15,12 +15,12 @@
 My profile is fully automated and live-updates with my Git attributes, stats, and workflows using **GitHub Actions** and APIs. Here is real-time analysis of my Git activity:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hash066/hash066/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img width="48%" src="https://raw.githubusercontent.com/hash066/hash066/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Languages Graph" />
+  <img width="48%" src="https://raw.githubusercontent.com/hash066/hash066/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Profile Stats" />
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hash066&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=338BFF&amp;fire=338BFF&amp;currStreakLabel=338BFF" alt="GitHub Streak" />
-  </a>
+  <img width="48%" src="https://raw.githubusercontent.com/hash066/hash066/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detailed Summary" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hash066&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=338BFF&amp;fire=338BFF&amp;currStreakLabel=338BFF" alt="GitHub Streak" />
 </p>
 
 ---
