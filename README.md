@@ -39,9 +39,9 @@ My profile is fully automated and live-updates with my Git attributes, stats, an
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hash066/profile/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hash066/profile/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hash066/profile/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hash066/hash066/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hash066/hash066/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hash066/hash066/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -51,7 +51,7 @@ My profile is fully automated and live-updates with my Git attributes, stats, an
 *Automatically rendered 3D view of my Git contributions over time.*
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/hash066/profile/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Stats" />
+   <img src="https://raw.githubusercontent.com/hash066/hash066/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Stats" />
 </p>
 
 <div align="center">
