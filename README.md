@@ -15,20 +15,11 @@
 My profile is fully automated and live-updates with my Git attributes, stats, and workflows using **GitHub Actions** and APIs. Here is real-time analysis of my Git activity:
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hash066&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=338BFF" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hash066&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=338BFF&amp;fire=338BFF&amp;currStreakLabel=338BFF" alt="GitHub Streak" />
-  </a>
+  <img src="https://raw.githubusercontent.com/hash066/hash066/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash066&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=338BFF" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="48%" src="https://github-profile-trophy.vercel.app/?username=hash066&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="GitHub Profile Trophy" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hash066&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=338BFF&amp;fire=338BFF&amp;currStreakLabel=338BFF" alt="GitHub Streak" />
   </a>
 </p>
 
